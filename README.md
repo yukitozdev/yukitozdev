@@ -66,8 +66,8 @@ Me chamo Matheus Costa, tenho 19 anos e sou de Sao Bernardo do Campo. Atualmente
 
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="Java" 
+    title="java"
     width="30px" 
     style="padding-right: 10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
